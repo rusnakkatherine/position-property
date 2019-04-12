@@ -1,0 +1,43 @@
+.static{
+    border: 1px solid olive;
+    padding: 10px;
+    position: static;
+    padding-bottom: 30px;
+}
+.relative-1{
+    border: 1px solid blue;
+    padding: 10px;
+    position: relative;
+}
+.relative-2{
+    border: 1px solid fuchsia;
+   /* width: 700px;
+    height: 30px;*/
+    display: inline;
+    padding: 10px;
+    position: relative;
+    /*float: right;*/
+    margin-bottom: 30px;
+}
+.static-1{
+    position: relative;
+    border: 1px solid mediumseagreen;
+    padding: 10px;
+    top: 30px;
+    height: 150px;
+
+}
+.absolute{
+    border: 1px solid navy;
+    padding: 10px;
+    width: 150px;
+    top: 30px;
+    position: absolute;
+}
+.fixed{
+    border: 1px solid blueviolet;
+    padding: 10px;
+    position: fixed;
+    width: 150px;
+    
+}
